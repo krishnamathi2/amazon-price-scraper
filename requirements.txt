@@ -1,0 +1,4 @@
+selenium==4.15.2
+pandas==2.1.1
+PySimpleGUI==5.0.0
+openpyxl==3.1.2
